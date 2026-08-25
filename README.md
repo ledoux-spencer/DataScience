@@ -41,7 +41,7 @@ A collection of Python projects completed as part of the Graduate Certificate pr
 - Notebooks have had outputs cleared to reduce repo size. If you need a runnable environment, see `requirements.txt` and consider using Google Colab.
 
 ## License
-- No license is added by default. If you want others to reuse your code or content, add a LICENSE file (e.g., MIT for code, or CC BY 4.0 for notebooks and documentation). Contact me if you want help choosing a license.
+- For viewing only — not for reuse "These materials are provided for viewing as a portfolio of my work. They are not to be reproduced, redistributed, modified, or used for any purpose without my prior written permission (Spencer LeDoux — ledouxs@gmail.com)."
 
 ## Acknowledgements
 These projects were completed as part of the Graduate Certificate program at UT McCombs School of Business, delivered via Great Learning.
