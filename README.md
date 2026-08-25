@@ -8,7 +8,8 @@ A collection of Python projects completed as part of the Graduate Certificate pr
 - [INN Hotels](./INN_Hotels) — Classification Techniques for Predictive Modeling  
 - [ReCell](./ReCell) — Predictive Modeling with Linear Regression  
 - [E-news Express](./E-News_Express) — Decision Making with Business Statistics  
-- [FoodHub Analysis](./FoodHub) — Data-driven Insights using Python  
+- [FoodHub Analysis](./FoodHub) — Data-driven Insights using Python
+- [NewWheels_SQL](./NewWheels_SQL) — SQL analysis (NewWheels Playground submission)  
 
 ## How to view & run
 - View notebooks on GitHub or open them in Google Colab.
