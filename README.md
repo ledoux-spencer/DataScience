@@ -48,3 +48,13 @@ These projects were completed as part of the Graduate Certificate program at UT 
 
 ## Contact
 Spencer LeDoux — ledouxs@gmail.com
+
+## Environment
+
+- Python: tested with Python 3.8+.
+- Recommended packages: pandas, numpy, scikit-learn, matplotlib, seaborn, scipy, statsmodels.
+- Optional (used in some projects): xgboost, lightgbm, imbalanced-learn, jupyter, nbconvert.
+- Notes:
+  - Notebooks were developed in Google Colab and should open there without extra configuration.
+  - If you want to run locally, create a virtual environment and install packages (for example: `pip install -r requirements.txt` if a requirements file is present).
+  - Large raw datasets are not included in this repo.
